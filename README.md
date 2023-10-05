@@ -6,11 +6,9 @@
 
 </div>
 <br>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amool-kk&color=blueviolet&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=HarshitVarma737&color=blueviolet&style=flat">
 </p>
-<br>
 <h3 align="center">Connect with me:</h3>
 
 <p align='center'>
@@ -24,8 +22,6 @@
     <img src="https://img.shields.io/badge/github-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-
 <br>
 
 <div style="height:1px;width:98%;background-color:white;margin-left:1%"></div>
@@ -74,20 +70,8 @@
 <br>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amool-kk&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="Amool-kk" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshitVarma737&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="HarshitVarma737" /></p>
 
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amool-kk&theme=material-palenight" alt="Amool-kk" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitVarma737&theme=material-palenight" alt="HarshitVarma737" /></p>
 <br>
-
-<!-- <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amool-kk&show_icons=true&theme=material-palenight&line_height=27" alt="Amool's github stats"/>
-</p> -->
-![](https://komarev.com/ghpvc/?username=HarshitVarma737&color=blueviolet)
-
-
-
-Connect with me:
-Linkedin:- https://www.linkedin.com/in/harshit-varma-721920203/
-Github:- https://github.com/HarshitVarma737
-
