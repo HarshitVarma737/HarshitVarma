@@ -12,7 +12,7 @@ Connect with me:
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-
+https://camo.githubusercontent.com/3a4b8be7910bd9b32a8d5dbf796a49ed2c12607b64fa3f03dfbb34c315fc58ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c6174266c6f676f3d676974687562
 
 My Stack:- 👨‍💻
 <div align="center">
