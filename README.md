@@ -1,18 +1,40 @@
-Welcome Folks Harshit Varma here! 👋
+## Welcome Folks Harshit Varma here! 👋 👋
+<div style="height:1px;width:98%;background-color:white;margin-left:1%"></div>
+<br>
+<div align='center'>
+<p>I'm a Cybersecurity Enthusiast and freelance Web Developer! </p>
 
-I'm a Cybersecurity Enthusiast and freelance Web Developer!
+</div>
+<br>
 
-I've worked on HTML/CSS, Javascript, ReactJS, C, Java, Python, MySQL
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amool-kk&color=blueviolet&style=flat">
+</p>
+<br>
+<h3 align="center">Connect with me:</h3>
 
-![](https://komarev.com/ghpvc/?username=HarshitVarma737&color=blueviolet)
+<p align='center'>
+  <a href="https://www.linkedin.com/in/harshit-varma-721920203/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:Harshitvarma8737@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;&nbsp;  
+  <a href="https://github.com/HarshitVarma737" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/github-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 
+<br>
 
-Connect with me:
-Linkedin:- https://www.linkedin.com/in/harshit-varma-721920203/
-Github:- https://github.com/HarshitVarma737
+<div style="height:1px;width:98%;background-color:white;margin-left:1%"></div>
 
-My Stack:- 👨‍💻
+
+<div align="center">
+
+<h2 ><b>Languages and Tools I know:</b></h2>
+<br/>
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
@@ -43,3 +65,29 @@ My Stack:- 👨‍💻
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" alt="fedora" title="fedora"/></code>
 </div>
+
+<br/>
+<br/>
+
+<div style="height:1px;width:98%;background-color:white;margin-left:1%"></div>
+</div>
+<br>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amool-kk&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="Amool-kk" /></p>
+
+<br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amool-kk&theme=material-palenight" alt="Amool-kk" /></p>
+<br>
+
+<!-- <p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amool-kk&show_icons=true&theme=material-palenight&line_height=27" alt="Amool's github stats"/>
+</p> -->
+![](https://komarev.com/ghpvc/?username=HarshitVarma737&color=blueviolet)
+
+
+
+Connect with me:
+Linkedin:- https://www.linkedin.com/in/harshit-varma-721920203/
+Github:- https://github.com/HarshitVarma737
+
